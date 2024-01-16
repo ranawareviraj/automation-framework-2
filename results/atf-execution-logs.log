@@ -1,0 +1,11 @@
+2024-01-16T02:50:50.378-05:00  INFO 28632 --- [main] c.e.a.s.google.GoogleSearchSteps         : Starting GoogleSearchSteps using Java 17.0.9 with PID 28632 (started by viru in /Users/viru/code/web-development/system-design/automation-framework)
+2024-01-16T02:50:50.380-05:00  INFO 28632 --- [main] c.e.a.s.google.GoogleSearchSteps         : No active profile set, falling back to 1 default profile: "default"
+2024-01-16T02:50:51.411-05:00  INFO 28632 --- [main] com.example.atf.config.WebDriverConfig   : Launching Browser: chrome
+2024-01-16T02:51:01.412-05:00  INFO 28632 --- [main] com.example.atf.config.WebDriverConfig   : Launched Browser: chrome
+2024-01-16T02:51:02.435-05:00  INFO 28632 --- [main] c.e.a.s.google.GoogleSearchSteps         : Started GoogleSearchSteps in 12.593 seconds (process running for 15.288)
+2024-01-16T02:51:04.343-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Navigating to Google.com
+2024-01-16T02:51:04.344-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Navigating to: https://www.google.com
+2024-01-16T02:51:15.899-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Searching for: selenium
+2024-01-16T02:51:15.901-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Searching for: selenium
+2024-01-16T02:51:22.403-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Search performed!
+2024-01-16T02:51:22.411-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Verifying page title starts with: selenium
