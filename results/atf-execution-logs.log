@@ -9,3 +9,14 @@
 2024-01-16T02:51:15.901-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Searching for: selenium
 2024-01-16T02:51:22.403-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Search performed!
 2024-01-16T02:51:22.411-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Verifying page title starts with: selenium
+2024-01-16T02:51:57.894-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Clicking on the first result
+2024-01-16T02:52:02.965-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Verifying that the search result page contains: https://www.selenium.dev/
+2024-01-16T02:52:03.680-05:00  INFO 28632 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.atf.ATFApplication for test class com.example.atf.stepDefinitions.google.GoogleSearchSteps
+2024-01-16T02:52:03.717-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Navigating to Google.com
+2024-01-16T02:52:03.718-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Navigating to: https://www.google.com
+2024-01-16T02:52:11.663-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Searching for: rest-assured
+2024-01-16T02:52:11.665-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Searching for: rest-assured
+2024-01-16T02:52:16.206-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Search performed!
+2024-01-16T02:52:16.213-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Verifying page title starts with: rest-assured
+2024-01-16T02:52:37.474-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Clicking on the first result
+2024-01-16T02:52:40.346-05:00  INFO 28632 --- [main] com.example.atf.pages.google.HomePage    : Verifying that the search result page contains: https://rest-assured.io/
